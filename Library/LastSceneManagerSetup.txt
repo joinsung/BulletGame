@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Cartoon Cat/Cartoon Cat.unity
+- path: C:/Users/user/Desktop/BulletGame-master/Assets/Cartoon Cat/Cartoon Cat.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
